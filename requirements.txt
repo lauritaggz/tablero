@@ -1,0 +1,3 @@
+matplot
+streamlit
+numpy
